@@ -17,50 +17,33 @@
 		A528FB5825BB581100A61ACF /* AlbumViewerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FB5725BB581100A61ACF /* AlbumViewerTests.swift */; };
 		A528FB6325BB581100A61ACF /* AlbumViewerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FB6225BB581100A61ACF /* AlbumViewerUITests.swift */; };
 		A528FB9525BDBE2700A61ACF /* UsersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FB9425BDBE2700A61ACF /* UsersViewController.swift */; };
-		A528FB9625BDBE2700A61ACF /* UsersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FB9425BDBE2700A61ACF /* UsersViewController.swift */; };
 		A528FB9E25BDC54800A61ACF /* UserTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FB9D25BDC54800A61ACF /* UserTableViewCell.swift */; };
-		A528FB9F25BDC54800A61ACF /* UserTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FB9D25BDC54800A61ACF /* UserTableViewCell.swift */; };
 		A528FBC825BDF59E00A61ACF /* UsersViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBC725BDF59E00A61ACF /* UsersViewModel.swift */; };
-		A528FBC925BDF59E00A61ACF /* UsersViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBC725BDF59E00A61ACF /* UsersViewModel.swift */; };
 		A528FBCE25BDF63700A61ACF /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBCD25BDF63700A61ACF /* User.swift */; };
-		A528FBCF25BDF63700A61ACF /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBCD25BDF63700A61ACF /* User.swift */; };
 		A528FBD525BE088500A61ACF /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBD425BE088500A61ACF /* Company.swift */; };
-		A528FBD625BE088500A61ACF /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBD425BE088500A61ACF /* Company.swift */; };
 		A528FBDE25BE09A500A61ACF /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBDD25BE09A500A61ACF /* Address.swift */; };
-		A528FBDF25BE09A500A61ACF /* Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBDD25BE09A500A61ACF /* Address.swift */; };
 		A528FBE425BE0A5000A61ACF /* Coordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBE325BE0A5000A61ACF /* Coordinates.swift */; };
-		A528FBE525BE0A5000A61ACF /* Coordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBE325BE0A5000A61ACF /* Coordinates.swift */; };
 		A528FBEA25BE0DAE00A61ACF /* FailableDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBE925BE0DAE00A61ACF /* FailableDecodable.swift */; };
-		A528FBEB25BE0DAE00A61ACF /* FailableDecodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBE925BE0DAE00A61ACF /* FailableDecodable.swift */; };
 		A528FBF125BE0EE200A61ACF /* AlbumsServicesClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBF025BE0EE200A61ACF /* AlbumsServicesClient.swift */; };
-		A528FBF225BE0EE200A61ACF /* AlbumsServicesClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = A528FBF025BE0EE200A61ACF /* AlbumsServicesClient.swift */; };
 		A5B31B4E25C1B0D300D9109C /* AlbumDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B31B4D25C1B0D300D9109C /* AlbumDetails.swift */; };
-		A5B31B4F25C1B0D300D9109C /* AlbumDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B31B4D25C1B0D300D9109C /* AlbumDetails.swift */; };
 		A5B31B5725C1B20800D9109C /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B31B5625C1B20800D9109C /* Album.swift */; };
-		A5B31B5825C1B20800D9109C /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5B31B5625C1B20800D9109C /* Album.swift */; };
 		A5CC7DF825C2BF8C00753295 /* AlbumDetailsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CC7DF725C2BF8C00753295 /* AlbumDetailsTableViewCell.swift */; };
 		A5CC7DFE25C2C12900753295 /* AlbumDetailsModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CC7DFD25C2C12900753295 /* AlbumDetailsModelView.swift */; };
-		A5CC7DFF25C2C12900753295 /* AlbumDetailsModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CC7DFD25C2C12900753295 /* AlbumDetailsModelView.swift */; };
 		A5CE0AE625C1C81500B5111F /* UserTableViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0AE525C1C81500B5111F /* UserTableViewCellViewModel.swift */; };
-		A5CE0AE725C1C81500B5111F /* UserTableViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0AE525C1C81500B5111F /* UserTableViewCellViewModel.swift */; };
 		A5CE0AF825C20B9000B5111F /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0AF725C20B9000B5111F /* Extensions.swift */; };
-		A5CE0AF925C20B9000B5111F /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0AF725C20B9000B5111F /* Extensions.swift */; };
 		A5CE0B0125C20C3200B5111F /* CacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B0025C20C3200B5111F /* CacheManager.swift */; };
-		A5CE0B0225C20C3200B5111F /* CacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B0025C20C3200B5111F /* CacheManager.swift */; };
 		A5CE0B0725C2185800B5111F /* AlbumsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B0625C2185800B5111F /* AlbumsViewController.swift */; };
-		A5CE0B0825C2185800B5111F /* AlbumsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B0625C2185800B5111F /* AlbumsViewController.swift */; };
 		A5CE0B1025C21A0900B5111F /* AlbumTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B0F25C21A0900B5111F /* AlbumTableViewCell.swift */; };
-		A5CE0B1125C21A0900B5111F /* AlbumTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B0F25C21A0900B5111F /* AlbumTableViewCell.swift */; };
 		A5CE0B1625C21ABA00B5111F /* AlbumsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B1525C21ABA00B5111F /* AlbumsViewModel.swift */; };
-		A5CE0B1725C21ABA00B5111F /* AlbumsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B1525C21ABA00B5111F /* AlbumsViewModel.swift */; };
 		A5CE0B1C25C21E4300B5111F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B1B25C21E4300B5111F /* Constants.swift */; };
-		A5CE0B1D25C21E4300B5111F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B1B25C21E4300B5111F /* Constants.swift */; };
 		A5CE0B2225C21EDE00B5111F /* AlbumDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B2125C21EDE00B5111F /* AlbumDetailsViewController.swift */; };
-		A5CE0B2325C21EDE00B5111F /* AlbumDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE0B2125C21EDE00B5111F /* AlbumDetailsViewController.swift */; };
 		A5EAE7BE25C34B6C000D47BE /* ImageDownloadServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5EAE7BD25C34B6C000D47BE /* ImageDownloadServices.swift */; };
-		A5EAE7BF25C34B6C000D47BE /* ImageDownloadServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5EAE7BD25C34B6C000D47BE /* ImageDownloadServices.swift */; };
 		A5EE888A25C2DEC300061910 /* AlbumDetailsTableViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5EE888925C2DEC300061910 /* AlbumDetailsTableViewCellViewModel.swift */; };
-		A5EE888B25C2DEC300061910 /* AlbumDetailsTableViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5EE888925C2DEC300061910 /* AlbumDetailsTableViewCellViewModel.swift */; };
+		A5FA707325C7780B00AD7AA7 /* AlbumsServicesClientProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5FA707225C7780B00AD7AA7 /* AlbumsServicesClientProtocol.swift */; };
+		A5FA707925C7794C00AD7AA7 /* MockAlbumsServicesClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5FA707825C7794C00AD7AA7 /* MockAlbumsServicesClient.swift */; };
+		A5FA708625C7807900AD7AA7 /* Albums.json in Resources */ = {isa = PBXBuildFile; fileRef = A5FA708525C7807900AD7AA7 /* Albums.json */; };
+		A5FA708B25C780BC00AD7AA7 /* AlbumDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = A5FA708A25C780BC00AD7AA7 /* AlbumDetails.json */; };
+		A5FA710825C7F60D00AD7AA7 /* Users.json in Resources */ = {isa = PBXBuildFile; fileRef = A5FA708025C77BD400AD7AA7 /* Users.json */; };
 		E8F4B27945E8C1BFA58F9805 /* Pods_AlbumViewerTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 733B2C29EAA6A3E47F8319E2 /* Pods_AlbumViewerTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -121,6 +104,11 @@
 		A5CE0B2125C21EDE00B5111F /* AlbumDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDetailsViewController.swift; sourceTree = "<group>"; };
 		A5EAE7BD25C34B6C000D47BE /* ImageDownloadServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDownloadServices.swift; sourceTree = "<group>"; };
 		A5EE888925C2DEC300061910 /* AlbumDetailsTableViewCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDetailsTableViewCellViewModel.swift; sourceTree = "<group>"; };
+		A5FA707225C7780B00AD7AA7 /* AlbumsServicesClientProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumsServicesClientProtocol.swift; sourceTree = "<group>"; };
+		A5FA707825C7794C00AD7AA7 /* MockAlbumsServicesClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockAlbumsServicesClient.swift; sourceTree = "<group>"; };
+		A5FA708025C77BD400AD7AA7 /* Users.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Users.json; sourceTree = "<group>"; };
+		A5FA708525C7807900AD7AA7 /* Albums.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Albums.json; sourceTree = "<group>"; };
+		A5FA708A25C780BC00AD7AA7 /* AlbumDetails.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = AlbumDetails.json; sourceTree = "<group>"; };
 		B1F8527CD1F44D345E20AF31 /* Pods-AlbumViewerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlbumViewerTests.release.xcconfig"; path = "Target Support Files/Pods-AlbumViewerTests/Pods-AlbumViewerTests.release.xcconfig"; sourceTree = "<group>"; };
 		B5FDADDA1893506314F04699 /* Pods-AlbumViewer-AlbumViewerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlbumViewer-AlbumViewerUITests.debug.xcconfig"; path = "Target Support Files/Pods-AlbumViewer-AlbumViewerUITests/Pods-AlbumViewer-AlbumViewerUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		C1879B7DE6DDC3764767A632 /* Pods-AlbumViewer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlbumViewer.release.xcconfig"; path = "Target Support Files/Pods-AlbumViewer/Pods-AlbumViewer.release.xcconfig"; sourceTree = "<group>"; };
@@ -223,6 +211,7 @@
 		A528FB5625BB581100A61ACF /* AlbumViewerTests */ = {
 			isa = PBXGroup;
 			children = (
+				A5FA707725C7791600AD7AA7 /* Mock */,
 				A528FB5725BB581100A61ACF /* AlbumViewerTests.swift */,
 				A528FB5925BB581100A61ACF /* Info.plist */,
 			);
@@ -258,6 +247,7 @@
 				A528FBF025BE0EE200A61ACF /* AlbumsServicesClient.swift */,
 				A5EAE7BD25C34B6C000D47BE /* ImageDownloadServices.swift */,
 				A5CE0B0025C20C3200B5111F /* CacheManager.swift */,
+				A5FA707225C7780B00AD7AA7 /* AlbumsServicesClientProtocol.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -302,6 +292,17 @@
 				A5CE0B1B25C21E4300B5111F /* Constants.swift */,
 			);
 			path = Tools;
+			sourceTree = "<group>";
+		};
+		A5FA707725C7791600AD7AA7 /* Mock */ = {
+			isa = PBXGroup;
+			children = (
+				A5FA707825C7794C00AD7AA7 /* MockAlbumsServicesClient.swift */,
+				A5FA708025C77BD400AD7AA7 /* Users.json */,
+				A5FA708525C7807900AD7AA7 /* Albums.json */,
+				A5FA708A25C780BC00AD7AA7 /* AlbumDetails.json */,
+			);
+			path = Mock;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -422,6 +423,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5FA710825C7F60D00AD7AA7 /* Users.json in Resources */,
+				A5FA708625C7807900AD7AA7 /* Albums.json in Resources */,
+				A5FA708B25C780BC00AD7AA7 /* AlbumDetails.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -556,6 +560,7 @@
 				A528FBE425BE0A5000A61ACF /* Coordinates.swift in Sources */,
 				A5CE0B1625C21ABA00B5111F /* AlbumsViewModel.swift in Sources */,
 				A528FBDE25BE09A500A61ACF /* Address.swift in Sources */,
+				A5FA707325C7780B00AD7AA7 /* AlbumsServicesClientProtocol.swift in Sources */,
 				A5CE0AF825C20B9000B5111F /* Extensions.swift in Sources */,
 				A5CE0B2225C21EDE00B5111F /* AlbumDetailsViewController.swift in Sources */,
 				A5CC7DF825C2BF8C00753295 /* AlbumDetailsTableViewCell.swift in Sources */,
@@ -574,29 +579,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A5CC7DFF25C2C12900753295 /* AlbumDetailsModelView.swift in Sources */,
-				A528FB9625BDBE2700A61ACF /* UsersViewController.swift in Sources */,
-				A5CE0B1D25C21E4300B5111F /* Constants.swift in Sources */,
-				A5EAE7BF25C34B6C000D47BE /* ImageDownloadServices.swift in Sources */,
-				A5EE888B25C2DEC300061910 /* AlbumDetailsTableViewCellViewModel.swift in Sources */,
-				A5CE0B2325C21EDE00B5111F /* AlbumDetailsViewController.swift in Sources */,
-				A5CE0B0225C20C3200B5111F /* CacheManager.swift in Sources */,
-				A528FBC925BDF59E00A61ACF /* UsersViewModel.swift in Sources */,
-				A528FB9F25BDC54800A61ACF /* UserTableViewCell.swift in Sources */,
-				A5CE0B1125C21A0900B5111F /* AlbumTableViewCell.swift in Sources */,
-				A528FBCF25BDF63700A61ACF /* User.swift in Sources */,
+				A5FA707925C7794C00AD7AA7 /* MockAlbumsServicesClient.swift in Sources */,
 				A528FB5825BB581100A61ACF /* AlbumViewerTests.swift in Sources */,
-				A528FBD625BE088500A61ACF /* Company.swift in Sources */,
-				A528FBF225BE0EE200A61ACF /* AlbumsServicesClient.swift in Sources */,
-				A5CE0B0825C2185800B5111F /* AlbumsViewController.swift in Sources */,
-				A528FBDF25BE09A500A61ACF /* Address.swift in Sources */,
-				A5B31B4F25C1B0D300D9109C /* AlbumDetails.swift in Sources */,
-				A528FBE525BE0A5000A61ACF /* Coordinates.swift in Sources */,
-				A528FBEB25BE0DAE00A61ACF /* FailableDecodable.swift in Sources */,
-				A5CE0B1725C21ABA00B5111F /* AlbumsViewModel.swift in Sources */,
-				A5CE0AE725C1C81500B5111F /* UserTableViewCellViewModel.swift in Sources */,
-				A5B31B5825C1B20800D9109C /* Album.swift in Sources */,
-				A5CE0AF925C20B9000B5111F /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -47,8 +47,10 @@ class AlbumsServicesClient {
         
         return manager
     }()
-    
-    
+}
+
+
+extension AlbumsServicesClient: AlbumsServicesClientProtocol {
     //Get users webservice
     
     func getUsers() -> Observable<[User]> {

@@ -23,7 +23,12 @@ class UsersViewModel {
     
     //MARK: - Public methods
     func getAllUsers() {
+        //Check for cached users
         if let cachedUsers = CacheManager.getCachedUsers() {
+            //If there are already users displyed, abort
+            if datasource.value.count > 0 {
+                return
+            }
             self.allUsers = cachedUsers
             self.datasource.accept(cachedUsers)
             return
